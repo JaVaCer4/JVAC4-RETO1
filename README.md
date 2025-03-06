@@ -12,4 +12,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 
 
-este es el archivo develop MAIN reto 1
+este es el archivo develop QA reto 1
