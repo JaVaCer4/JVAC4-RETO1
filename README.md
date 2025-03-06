@@ -10,4 +10,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 ## Tecnologías
 - Java SpringBoot
 
-Este es archivo de QA RETO 1
+Este es archivo de MAIN RETO 1
